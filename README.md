@@ -23,3 +23,7 @@ PostgreSQL, MySQL, DuckDB
 - Birdwatching - I can distinguish a pigeon from a turtledove) and I know that there are three pheasants living in the backyard behind my house.
 - Learning Swedish - "Hej hej"
 - Participating in the World Data League, developing solutions to implement sustainable development strategies using data analytics and data science tools.
+
+
+<p><a href="https://www.worlddataleague.com/"><img src="https://github.com/ivansakov/wdl-2023/blob/main/Data/image_WDL.png" height=25></a> 
+</p>
