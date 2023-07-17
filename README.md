@@ -17,7 +17,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, Light
 PostgreSQL, MySQL, DuckDB
 
 <br><br>
-🔭 I'm currently working on analyzing the optimal locations for micromobility drop-off points in Malmo, Sweden.
+🔭 I'm currently working on analyzing the optimal locations for [micromobility drop-off points](https://github.com/ivansakov/micromobility-projects) in Malmo, Sweden.
 
 ⚡ About my hobbies:
 - Birdwatching - I can distinguish a pigeon from a turtledove) and I know that there are three pheasants living in the backyard behind my house.
