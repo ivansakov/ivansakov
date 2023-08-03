@@ -14,7 +14,7 @@ Experienced professional in analytics and business process optimization with ove
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras, LightGBM, Geopandas
 
 ###### Databases: 
-PostgreSQL, MySQL, DuckDB
+PostgreSQL, Vertica, DuckDB
 
 <br><br>
 🔭 I'm currently working on analyzing the optimal locations for [micromobility drop-off points](https://github.com/ivansakov/micromobility-projects) in Malmo, Sweden.
